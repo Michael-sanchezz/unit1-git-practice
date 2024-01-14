@@ -1,69 +1,116 @@
 ### Step 2A
-
+$ pwd
+/c/Users/micha
 
 ### Step 2B
 
+$ cd desktop
 
 ### Step 2C
+$ cd unit1-git-practice/
 
 
 ### Step 2D
-
+$ pwd
+/c/Users/micha/OneDrive/desktop/unit1-git-practice
 
 ### Step 2E
-
+$ ls
 
 ### Step 2F
-
+menu.txt  my-steps.txt  plants/  proteins/  sweets/  veggies/
 
 ### Step 2G
-
+$ cd ~
 
 ### Step 2H
-
+$ pwd
+/c/Users/micha
 
 ### Step 2I
-
+micha@Michael_980 MINGW64 ~
+$ ls
+ AppData/
+'Application Data'@
+ Contacts/
+ Cookies@
+'Creative Cloud Files'/
+ Documents/
+ Downloads/
+ Favorites/
+ Games/
+ Git_saves/
+ Links/
+'Local Settings'@
+ Music/
+'My Documents'@
+ NTUSER.DAT
+ NTUSER.DAT{c062ff30-a818-11ee-96f4-e89c255733b1}.TxR.0.regtrans-ms
+ NTUSER.DAT{c062ff30-a818-11ee-96f4-e89c255733b1}.TxR.1.regtrans-ms
+ NTUSER.DAT{c062ff30-a818-11ee-96f4-e89c255733b1}.TxR.2.regtrans-ms
+ NTUSER.DAT{c062ff30-a818-11ee-96f4-e89c255733b1}.TxR.blf
+ NTUSER.DAT{c062ff31-a818-11ee-96f4-e89c255733b1}.TM.blf
+ NTUSER.DAT{c062ff31-a818-11ee-96f4-e89c255733b1}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{c062ff31-a818-11ee-96f4-e89c255733b1}.TMContainer00000000000000000002.regtrans-ms
+ NetHood@
+ OneDrive/
+ Poliigon/
+ PrintHood@
+ PycharmProjects/
+ Recent@
+'Saved Games'/
+ Searches/
+ SendTo@
+'Start Menu'@
+ Templates@
+ Videos/
+ mike/
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ ntuser.ini
 
 ### Step 2J
-
+cd ~
 
 ### Step 2K
-
-
+$ cd OneDrive/desktop/unit1-git-practice/
 
 ### Step 3A
-
+mkdir veggies meats desserts
 
 ### Step 3B
 
-
+mv desserts sweets
 ### Step 3C
-
+mkdir proteins
 
 ### Step 3D
-
+mv meats proteins
 
 ### Step 3E
-
+mkdir carrot.txt pea.txt
 
 ### Step 3F
-
+cd ..
+cd sweets
+mkdir cookie.txt
 
 ### Step 3G
-
+mv cookie.txt donut.txt
 
 ### Step 3H
-
+cd ..
+mkdir thing.txt
 
 ### Step 3I
+$ cp thing.txt tofu.txt
 
 
 ### Step 3J
-
+ mv tofu.txt proteins
 
 ### Step 3K
-
+cp thing.txt crab.txt
 
 ### Step 3L
 
