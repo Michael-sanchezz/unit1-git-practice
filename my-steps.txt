@@ -134,6 +134,21 @@ Everything up-to-date
 
 
 ### Step 6
+$ git commit -m "steps update"
+[main 476cadc] steps update
+ 1 file changed, 67 insertions(+), 20 deletions(-)
+
+micha@Michael_980 MINGW64 ~/OneDrive/desktop/unit1-git-practice (main)
+$ git push
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 16 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 940 bytes | 940.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/Michael-sanchezz/unit1-git-practice.git
+   31c3185..476cadc  main -> main
 
 
 ### Step 7
